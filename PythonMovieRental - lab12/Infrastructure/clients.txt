@@ -1,0 +1,4 @@
+1,Roberto,4
+2,Alberrto,1
+55,Diana,0
+56,Anda,0
